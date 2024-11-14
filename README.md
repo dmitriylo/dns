@@ -1,6 +1,6 @@
-# Smart DNS
+# DNS
 
-Stupidly simple Smart DNS proxy to watch Netflix.
+DNS proxy to geoblock.
 
 ## Example
 ```bash
